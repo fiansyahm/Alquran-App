@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "707078594580",
+    "firebase_url": "https://gabut-project-acc63-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gabut-project-acc63",
+    "storage_bucket": "gabut-project-acc63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707078594580:android:4a9ce21bb295f3294cc701",
+        "android_client_info": {
+          "package_name": "com.app.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_teeu77ChjEJvJkU_RsAUCkiWQvcVAZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707078594580:android:de3b11653de07ffc4cc701",
+        "android_client_info": {
+          "package_name": "com.example.flutter_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_teeu77ChjEJvJkU_RsAUCkiWQvcVAZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707078594580:android:300d8e7ffb1b46f04cc701",
+        "android_client_info": {
+          "package_name": "com.example.listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_teeu77ChjEJvJkU_RsAUCkiWQvcVAZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707078594580:android:9a53246f8a19c2364cc701",
+        "android_client_info": {
+          "package_name": "com.example.mobbb_ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_teeu77ChjEJvJkU_RsAUCkiWQvcVAZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707078594580:android:8d1f0ead70b025f54cc701",
+        "android_client_info": {
+          "package_name": "com.fiansyah.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_teeu77ChjEJvJkU_RsAUCkiWQvcVAZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707078594580-no4cknvsr0vvdvm4tc446qdvaebaa6jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
