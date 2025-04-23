@@ -1,51 +1,9 @@
-# mobbb_ads
+# Alquran App
+Framework: Flutter
+![image](https://github.com/user-attachments/assets/05ecce27-7e74-4264-89b6-4c156a9747db)
+![image](https://github.com/user-attachments/assets/2b15bce0-33c7-49ac-817f-992d9ca45866)
+![image](https://github.com/user-attachments/assets/0fe42c63-845b-48d1-aba6-59b31ba3f608)
+![image](https://github.com/user-attachments/assets/50247a7e-23a3-4c25-88a6-b3d20d1cbbac)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Setting:
-flutter sdk: 17 Oracle OpenJDK 17.0.12
-
-build.grandle android
-buildscript {
-repositories {
-google()
-mavenCentral()
-}
-dependencies {
-classpath 'com.android.tools.build:gradle:8.1.1'
-classpath 'com.google.gms:google-services:4.3.15'  // Menambahkan plugin Google Services
-}
-}
-
-build.grandle android/app:
-defaultConfig {
-applicationId = "com.example.mobbb_ads"
-minSdkVersion = 21
-targetSdkVersion = 33
-versionCode = 1
-versionName = "1.0"
-}
-buildTypes {
-....
-}
-flutter {
-source = "../.."
-}
-dependencies {
-//    implementation 'com.google.android.gms:play-services:12.0.1'
-implementation 'com.google.android.gms:play-services-ads:23.6.0'
-//    implementation 'com.google.android.gms:play-services-ads:22.4.0'
-}
